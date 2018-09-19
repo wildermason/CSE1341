@@ -1,6 +1,5 @@
 /*
 Name: Wilder Mason
-Student ID: 47322253
 Date: December 1, 2017
 Lab 8 - Fall 2017
 */

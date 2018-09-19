@@ -1,6 +1,5 @@
 /*
 Author: Wilder Mason
-Student ID: 47322253
 Date: October 23, 2017
 Lab 5-Fall 2017
 */
