@@ -2,6 +2,36 @@
 	"configurations": [
 		{
 			"type": "java",
+			"name": "CodeLens (Launch) - TargetProfit",
+			"request": "launch",
+			"mainClass": "TargetProfit"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - Square",
+			"request": "launch",
+			"mainClass": "Square"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - Rectangle",
+			"request": "launch",
+			"mainClass": "Rectangle"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - Inventory",
+			"request": "launch",
+			"mainClass": "Inventory"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - Circle",
+			"request": "launch",
+			"mainClass": "Circle"
+		},
+		{
+			"type": "java",
 			"name": "CodeLens (Launch) - FirstProgram",
 			"request": "launch",
 			"mainClass": "FirstProgram"
