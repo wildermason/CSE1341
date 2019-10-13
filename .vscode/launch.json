@@ -2,39 +2,101 @@
 	"configurations": [
 		{
 			"type": "java",
-			"name": "CodeLens (Launch) - TargetProfit",
+			"name": "CodeLens (Launch) - SmallestInteger",
 			"request": "launch",
-			"mainClass": "TargetProfit"
+			"mainClass": "SmallestInteger",
+			"projectName": "CSE-1341_7de567eb"
 		},
 		{
 			"type": "java",
-			"name": "CodeLens (Launch) - Square",
+			"name": "CodeLens (Launch) - Hangman",
 			"request": "launch",
-			"mainClass": "Square"
+			"mainClass": "Hangman",
+			"projectName": "CSE-1341_7de567eb"
 		},
 		{
 			"type": "java",
-			"name": "CodeLens (Launch) - Rectangle",
+			"name": "CodeLens (Launch) - BeanMachine",
 			"request": "launch",
-			"mainClass": "Rectangle"
+			"mainClass": "BeanMachine",
+			"projectName": "CSE-1341_7de567eb"
 		},
 		{
 			"type": "java",
 			"name": "CodeLens (Launch) - Inventory",
 			"request": "launch",
-			"mainClass": "Inventory"
+			"mainClass": "Inventory",
+			"projectName": "CSE-1341_7de567eb"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - VolumeWeightConverter",
+			"request": "launch",
+			"mainClass": "VolumeWeightConverter",
+			"projectName": "CSE-1341_7de567eb"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - SumAndAverage",
+			"request": "launch",
+			"mainClass": "SumAndAverage",
+			"projectName": "CSE-1341_7de567eb"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - NaturalNumbers",
+			"request": "launch",
+			"mainClass": "NaturalNumbers",
+			"projectName": "CSE-1341_7de567eb"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - MultiplicationTable",
+			"request": "launch",
+			"mainClass": "MultiplicationTable",
+			"projectName": "CSE-1341_7de567eb"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - CheckerBoard",
+			"request": "launch",
+			"mainClass": "CheckerBoard",
+			"projectName": "CSE-1341_7de567eb"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - TargetProfit",
+			"request": "launch",
+			"mainClass": "TargetProfit",
+			"projectName": "CSE-1341_7de567eb"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - Square",
+			"request": "launch",
+			"mainClass": "Square",
+			"projectName": "CSE-1341_7de567eb"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - Rectangle",
+			"request": "launch",
+			"mainClass": "Rectangle",
+			"projectName": "CSE-1341_7de567eb"
 		},
 		{
 			"type": "java",
 			"name": "CodeLens (Launch) - Circle",
 			"request": "launch",
-			"mainClass": "Circle"
+			"mainClass": "Circle",
+			"projectName": "CSE-1341_7de567eb"
 		},
 		{
 			"type": "java",
 			"name": "CodeLens (Launch) - FirstProgram",
 			"request": "launch",
-			"mainClass": "FirstProgram"
+			"mainClass": "FirstProgram",
+			"projectName": "CSE-1341_7de567eb"
 		}
 	]
 }
