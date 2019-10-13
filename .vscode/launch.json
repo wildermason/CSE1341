@@ -2,6 +2,13 @@
 	"configurations": [
 		{
 			"type": "java",
+			"name": "CodeLens (Launch) - GUILauncher",
+			"request": "launch",
+			"mainClass": "GUILauncher",
+			"projectName": "CSE-1341_7de567eb"
+		},
+		{
+			"type": "java",
 			"name": "CodeLens (Launch) - Launcher",
 			"request": "launch",
 			"mainClass": "Launcher",
