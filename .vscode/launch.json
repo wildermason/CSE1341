@@ -2,6 +2,13 @@
 	"configurations": [
 		{
 			"type": "java",
+			"name": "CodeLens (Launch) - SMUQuest",
+			"request": "launch",
+			"mainClass": "SMUQuest",
+			"projectName": "CSE-1341_7de567eb"
+		},
+		{
+			"type": "java",
 			"name": "CodeLens (Launch) - SmallestInteger",
 			"request": "launch",
 			"mainClass": "SmallestInteger",
